@@ -10,4 +10,4 @@ myPromise.then((successMessage) => {
     console.log("From Callback " + successMessage)
   })
 //Console log after calling the promise
-  console.log("After calling promise");
+console.log("After calling promise");
